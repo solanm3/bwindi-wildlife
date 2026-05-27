@@ -1,0 +1,353 @@
+{
+  "profile": "https://raw.githubusercontent.com/tdwg/camtrap-dp/1.0/camtrap-dp-profile.json",
+  "name": "michael-solan-20260424101934",
+  "id": "d3736986-375a-48e0-a084-12dc2780a44b",
+  "created": "2026-04-24T10:19:34Z",
+  "contributors": [
+    {
+      "title": "Agouti Admins",
+      "email": "agouti@wur.nl",
+      "role": "contributor",
+      "organization": "Wageningen University"
+    },
+    {
+      "title": "AnneMarie Solan",
+      "email": "amsolan@gmail.com",
+      "role": "contributor"
+    },
+    {
+      "title": "Gerard Solan",
+      "email": "gsolan@gmail.com",
+      "role": "contributor"
+    },
+    {
+      "title": "Michael Solan",
+      "email": "micsolan@gmail.com",
+      "role": "principalInvestigator"
+    },
+    {
+      "title": "Nina Frank",
+      "email": "ninafrank@tuta.io",
+      "role": "contributor"
+    },
+    {
+      "title": "X TR",
+      "email": "09slmichaelsolan@gmail.com",
+      "role": "contributor"
+    }
+  ],
+  "image": "https://www.agouti.eu/uploads/project-images/3113b46a-e327-4d54-8c62-3a2be1fd1fea.png",
+  "sources": [
+    {
+      "title": "Agouti",
+      "path": "https://www.agouti.eu",
+      "email": "agouti@wur.nl",
+      "version": "v4"
+    }
+  ],
+  "project": {
+    "id": "3113b46a-e327-4d54-8c62-3a2be1fd1fea",
+    "title": "Michael Solan",
+    "samplingDesign": "opportunistic",
+    "captureMethod": [
+      "activityDetection"
+    ],
+    "individualAnimals": false,
+    "observationLevel": [
+      "event"
+    ]
+  },
+  "spatial": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          29.79632,
+          -1.06817
+        ],
+        [
+          29.79632,
+          -1.06817
+        ],
+        [
+          29.79632,
+          -1.06817
+        ],
+        [
+          29.79632,
+          -1.06817
+        ],
+        [
+          29.79632,
+          -1.06817
+        ]
+      ]
+    ]
+  },
+  "temporal": {
+    "start": "2026-02-02",
+    "end": "2026-03-29"
+  },
+  "taxonomic": [
+    {
+      "scientificName": "Allochrocebus lhoesti",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/BVHG",
+      "taxonRank": "species",
+      "order": "primates",
+      "family": "cercopithecidae",
+      "vernacularNames": {
+        "eng": "Lhoests monkey"
+      }
+    },
+    {
+      "scientificName": "Aves",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/V2",
+      "taxonRank": "class",
+      "vernacularNames": {
+        "eng": "Bird sp.",
+        "nld": "Vogel"
+      }
+    },
+    {
+      "scientificName": "Canis adustus",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/QLX4",
+      "taxonRank": "species",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "vernacularNames": {
+        "eng": "Side-striped jackal",
+        "nld": "Gestreepte jakhals"
+      }
+    },
+    {
+      "scientificName": "Caracal aurata",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/CFJ2J",
+      "taxonRank": "species",
+      "order": "carnivora",
+      "family": "felidae",
+      "vernacularNames": {
+        "eng": "African golden cat"
+      }
+    },
+    {
+      "scientificName": "Cephalophus nigrifrons",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/SDRP",
+      "taxonRank": "species",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "vernacularNames": {
+        "eng": "Black-fronted duiker",
+        "nld": "Zwartvoorhoofdduiker"
+      }
+    },
+    {
+      "scientificName": "Cephalophus silvicultor",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/SDRT",
+      "taxonRank": "species",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "vernacularNames": {
+        "eng": "Yellow-backed duiker",
+        "nld": "Geelrugduiker"
+      }
+    },
+    {
+      "scientificName": "Cercopithecus mitis",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/STFF",
+      "taxonRank": "species",
+      "order": "primates",
+      "family": "cercopithecidae",
+      "vernacularNames": {
+        "eng": "Blue monkey"
+      }
+    },
+    {
+      "scientificName": "Civettictis civetta",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/VMQL",
+      "taxonRank": "species",
+      "order": "Carnivora",
+      "family": "Viverridae",
+      "vernacularNames": {
+        "eng": "African civet",
+        "nld": "Afrikaanse civetkat"
+      }
+    },
+    {
+      "scientificName": "Colobus guereza",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/5ZN3P",
+      "taxonRank": "species",
+      "order": "primates",
+      "family": "cercopithecidae",
+      "vernacularNames": {
+        "eng": "Guereza"
+      }
+    },
+    {
+      "scientificName": "Cricetomys gambianus",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/ZFWT",
+      "taxonRank": "species",
+      "order": "Rodentia",
+      "family": "Nesomyidae",
+      "vernacularNames": {
+        "eng": "Gambian pouched rat",
+        "nld": "Gambiahamsterrat"
+      }
+    },
+    {
+      "scientificName": "Genetta victoriae",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/3FKPD",
+      "taxonRank": "species",
+      "order": "Carnivora",
+      "family": "Viverridae",
+      "vernacularNames": {
+        "eng": "Giant genet"
+      }
+    },
+    {
+      "scientificName": "Gorilla beringei",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/3H3C3",
+      "taxonRank": "species",
+      "order": "primates",
+      "family": "hominidae",
+      "vernacularNames": {
+        "eng": "Eastern gorilla"
+      }
+    },
+    {
+      "scientificName": "Homo sapiens",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/6MB3T",
+      "taxonRank": "species",
+      "order": "Primates",
+      "family": "Hominidae",
+      "vernacularNames": {
+        "eng": "Human",
+        "nld": "Mens"
+      }
+    },
+    {
+      "scientificName": "Leptailurus serval",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/3THH7",
+      "taxonRank": "species",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "vernacularNames": {
+        "eng": "Serval",
+        "nld": "Serval"
+      }
+    },
+    {
+      "scientificName": "Loxodonta cyclotis",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/3W9KX",
+      "taxonRank": "species",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "vernacularNames": {
+        "eng": "African forest elephant"
+      }
+    },
+    {
+      "scientificName": "Mellivora capensis",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/3ZLBF",
+      "taxonRank": "species",
+      "order": "Carnivora",
+      "family": "Mustelidae",
+      "vernacularNames": {
+        "eng": "Honey badger",
+        "nld": "Honingdas"
+      }
+    },
+    {
+      "scientificName": "Pan troglodytes",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/4C92G",
+      "taxonRank": "species",
+      "order": "primates",
+      "family": "hominidae",
+      "vernacularNames": {
+        "eng": "Chimpanzee"
+      }
+    },
+    {
+      "scientificName": "Potamochoerus larvatus",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/4M3GT",
+      "taxonRank": "species",
+      "order": "Artiodactyla",
+      "family": "Suidae",
+      "vernacularNames": {
+        "eng": "Bushpig",
+        "nld": "Boszwijn"
+      }
+    },
+    {
+      "scientificName": "Protoxerus stangeri",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/7WMP3",
+      "taxonRank": "species",
+      "order": "Rodentia",
+      "family": "Sciuridae",
+      "vernacularNames": {
+        "eng": "Forest giant squirrel",
+        "nld": "Oliepalmeekhoorn"
+      }
+    },
+    {
+      "scientificName": "Rattus rattus",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/4RM6W",
+      "taxonRank": "species",
+      "order": "Rodentia",
+      "family": "Muridae",
+      "vernacularNames": {
+        "eng": "Black rat",
+        "nld": "Zwarte rat"
+      }
+    },
+    {
+      "scientificName": "Rodentia",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/3Z5",
+      "taxonRank": "order",
+      "order": "Rodentia",
+      "vernacularNames": {
+        "eng": "Rodents",
+        "nld": "Knaagdieren"
+      }
+    },
+    {
+      "scientificName": "Tragelaphus sylvaticus",
+      "taxonID": "https://www.checklistbank.org/dataset/COL2023/taxon/5LKVP",
+      "taxonRank": "species",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "vernacularNames": {
+        "eng": "Bush buck",
+        "nld": "Bosbok"
+      }
+    }
+  ],
+  "resources": [
+    {
+      "name": "deployments",
+      "path": "deployments.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": "https://raw.githubusercontent.com/tdwg/camtrap-dp/1.0/deployments-table-schema.json"
+    },
+    {
+      "name": "media",
+      "path": "media.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": "https://raw.githubusercontent.com/tdwg/camtrap-dp/1.0/media-table-schema.json"
+    },
+    {
+      "name": "observations",
+      "path": "observations.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": "https://raw.githubusercontent.com/tdwg/camtrap-dp/1.0/observations-table-schema.json"
+    }
+  ]
+}
